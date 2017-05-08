@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Test Driven Development and the Art of Looking Closely"
-date:   2017-05-08 10:28:37 +0000
+date:   2017-05-08 06:28:38 -0400
 ---
 
 
@@ -10,7 +10,7 @@ I'd somewhat prided myself on my sharp eye for detail. A few years in several ro
 But my fingers sometimes type faster than my head, which is why I am grateful for test-driven development (TDD), because those tests designed to teach and point out those slight mistakes make me a better coder.
 
 
-Although this is my first blog post I've been re-learning how to code in the latest and greatest through via Flatiron School's Learn.co platform, after winning a half-scholarship from Hackernest (insert hat-tip here). It has been a few days since I've managed to sit with my blocked-out period of five hours to really focus on the code and 
+Although this is my first blog post I've been re-learning how to code in the latest and greatest through via Flatiron School's Learn.co platform, after winning a half-scholarship from Hackernest (insert hat-tip here). It has been a few days since I've managed to sit with my blocked-out period of five hours to really focus on the code.
 
 I learned to code front-end fumbling around in the joy that was Geocities, scrolling text, awkward colour combination, and - yes - frames. My coding tool of use, when it wasn't Notepad, was [Arachnophilia](http://https://arachnoid.com/arachnophilia/index_old.html), which was actually kind of a joy to use, and I have a vague recollection of letting a five-year-old use my computer and teaching her a bit of HTML front-end with Arachnophilia as well - she made a pink site with lots of different coloured text. Now, of course, we have [Lego Minecraft working with Code.org](http://https://blogs.msdn.microsoft.com/user_ed/2015/11/17/teach-kids-to-code-with-minecraft-and-code-org/) - I may or may not be dying to code along.
 
